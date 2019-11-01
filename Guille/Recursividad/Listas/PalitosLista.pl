@@ -1,0 +1,2 @@
+jugador(maria).
+jugador(elena).
